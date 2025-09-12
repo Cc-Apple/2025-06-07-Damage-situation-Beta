@@ -1,0 +1,7 @@
+level,label,file,size,sha256,acquired_at_UTC+7
+zip,part1,/mnt/data/part1.zip,10891245,bf9515d0fb82f4487c1e50506525dd92a1a0d7b001eee3f4b35cdaa6ddbaf9b4,2025-09-12T15:32:35+07:00
+zip,part2,/mnt/data/part2.zip,17777630,d7292c7d55f13bd3e5bfe1cc749f962df3a1dd55ead7fa07b18347ea60a743b2,2025-09-12T15:32:36+07:00
+zip,part3,/mnt/data/part3.zip,9702200,a0a247ae8195edbef52a1f43d714dcfe3c425da82a9be4dbeea310ce09c7ca2b,2025-09-12T15:32:37+07:00
+file,extracted,/mnt/data/work_2025-06-07/part1_extracted/part1.txt,64150208,09cbafbd251a47cadab496303be1ed23496ac30de79e222d5b6101f5b025493d,2025-09-12T15:32:38+07:00
+file,extracted,/mnt/data/work_2025-06-07/part2_extracted/part2.txt,103424487,7ead6e408c7c3f9569221bee53d9a5902dd9977155b62c76c194b638c1d342ea,2025-09-12T15:32:39+07:00
+file,extracted,/mnt/data/work_2025-06-07/part3_extracted/part3.txt,52811406,8bdef3268b594cc5c8a6ee80bd0ed36a0ef4d2c7b520b56d57d64242b6b21e44,2025-09-12T15:32:39+07:00

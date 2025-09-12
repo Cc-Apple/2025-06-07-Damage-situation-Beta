@@ -1,0 +1,2 @@
+human_index,source_file,timestamp_local,bug_type,incident_id,os_version,device_reported,topic,eventType,bundleId,eventTime_ms,dt,delta_sec,match_score
+0,/mnt/data/work_2025-06-07/xp_extracted/xp_amp_app_usage_dnu-2025-06-07-140745.ips,2025-06-07T14:07:45+07:00,225,DF7E10A8-412E-49FF-AAB5-29A77CE0664C,,,xp_amp_app_usage_dnu,launches,com.viettel.ttnd.vietteldiscovery,1749280065276.0,2025-06-07 14:07:45+07:00,45.0,2

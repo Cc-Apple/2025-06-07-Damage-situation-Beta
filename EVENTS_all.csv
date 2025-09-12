@@ -1,0 +1,10 @@
+source_file,timestamp_local,bug_type,incident_id,os_version,device_reported,topic,eventType,bundleId,eventTime_ms
+/mnt/data/work_2025-06-07/xp_extracted/Analytics-2025-06-07-070102.ips.ca.synced,2025-06-07T07:00:00+07:00,211,DC015262-2A53-4EC9-A222-BAC755E7723B,,,AllTopics,,,
+/mnt/data/work_2025-06-07/xp_extracted/OTAUpdate-2025-06-07-00-29-13.ips,,183,,,,,,,
+/mnt/data/work_2025-06-07/xp_extracted/proactive_event_tracker-com_apple_Trial-com_apple_triald-2025-06-07-011807.ips,2025-06-07T01:18:07+07:00,303,F6D869E0-CD19-40EE-A655-7D337793AAB7,,,,,,
+/mnt/data/work_2025-06-07/xp_extracted/SiriSearchFeedback-2025-06-07-003857.ips,2025-06-07T00:38:57+07:00,313,EC9441A0-E21A-4C7F-819A-E3D0C8ECE2B1,,,,,,
+/mnt/data/work_2025-06-07/xp_extracted/SiriSearchFeedback-2025-06-07-010859.ips,2025-06-07T01:08:59+07:00,313,92287C1F-3D7F-47DB-9B8D-4B0E68313492,,,,,,
+/mnt/data/work_2025-06-07/xp_extracted/SiriSearchFeedback-2025-06-07-083536.ips,2025-06-07T08:35:36+07:00,313,48369AB1-041F-40CB-A1B3-35EFA9AB9B9B,,,,,,
+/mnt/data/work_2025-06-07/xp_extracted/SiriSearchFeedback-2025-06-07-084258.ips,2025-06-07T08:42:58+07:00,313,120F2EDA-6E2A-4BB7-B59F-9953AB50F88A,,,,,,
+/mnt/data/work_2025-06-07/xp_extracted/SiriSearchFeedback-2025-06-07-085919.ips,2025-06-07T08:59:19+07:00,313,5620449F-E5A8-43B2-88FF-B1EEB10496B4,,,,,,
+/mnt/data/work_2025-06-07/xp_extracted/xp_amp_app_usage_dnu-2025-06-07-140745.ips,2025-06-07T14:07:45+07:00,225,DF7E10A8-412E-49FF-AAB5-29A77CE0664C,,,xp_amp_app_usage_dnu,launches,com.viettel.ttnd.vietteldiscovery,1749280065276

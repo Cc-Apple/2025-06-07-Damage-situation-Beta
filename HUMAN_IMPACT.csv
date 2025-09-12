@@ -1,0 +1,2 @@
+date_utc7,time_score,location,device,event_type,impact,log_ref,ref_diff,screenshot,ledger_no,net_context,severity,confidence,custody_capture,custody_analysis,notes,flame_flag
+2025-06-07 14:07,3,未記載,iPad,アプリテレメトリ集中（MyViettelアンカー）,未申告,xp_amp_app_usage_dnu-2025-06-07-140745.ips,DIFF_events.csv / DIFF_keywords.csv,,,,Medium (2),0.7,bfab3682be515c7812f69502c498f7a6d312e7c0cf7cafd18598182571f2904a,e733961eb48c7239c847c72049a436478c078b81178615fe647c48ced0307651,同秒クラスター（count>=3）。MyViettel周辺の近接発火。,VN-Telco:Yes; Microsoft:No; Meta:No; Apple:No; CN-Vendor:No
